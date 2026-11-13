@@ -256,7 +256,9 @@ void student_CHANDANA_S_H() {
 }
 
 void student_CHANDRAMMA() {
-    printf("CHANDRAMMA is absent\n");
+    printf("CHANDRAMMA is present\n");
+    printf("usn:4JN25CS047\n");
+    printf("Address: Shivamogga\n");
 }
 
 void student_CHAYADEVI_G_R() {
