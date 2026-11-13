@@ -181,7 +181,10 @@ void student_BHAVANA_H_D() {
 }
 
 void student_BHOOMIKA_H_A() {
-    printf("BHOOMIKA H A is absent\n");
+    printf("BHOOMIKA H A is present\n");
+    printf("USN :4JN25CS031");
+    printf(" SEMESTER :3A");
+    printf(" number :7899852710");
 }
 
 void student_BHOOMIKA_M_L() {
