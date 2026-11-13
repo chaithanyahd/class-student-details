@@ -57,11 +57,14 @@ void student_POOJA_S_G() {
 }
 
 void student_A_S_KAVERI() {
-    printf("A S KAVERI is absent\n");
+    printf("A S KAVERI is present\n");
+    printf("USN - 4JN25CS001");
+    printf("email address - askaveri09@gmail.com");
 }
 
 void student_ABHINAVI_H_R() {
-    printf("ABHINAVI H R is absent\n");
+    printf("ABHINAVI H R is present
+        4JN25CS002\n");
 }
 
 void student_ADITHI_S_SHET() {
@@ -97,7 +100,10 @@ void student_AISHWARYA_V_GUJJAR() {
 }
 
 void student_AMULYA_K() {
-    printf("AMULYA K is absent\n");
+    printf("AMULYA K is present\n");
+    printf("USN : 4JN25CS012\n");
+    printf("Phone number: 9353057171\n");
+    printf("Address : Bhadravathi\n");
 }
 
 void student_AMULYA_P() {
@@ -133,7 +139,10 @@ void student_ANUSHA_RAMAPPA_LA() {
 }
 
 void student_APEKSHA_D_H() {
-    printf("APEKSHA D H is absent\n");
+    printf("APEKSHA D H is present\n");
+    printf("USN : 4JN25CS020\n");
+    printf("Phone number: 9180545235\n");
+    printf("Address : Bhadravathi\n");
 }
 
 void student_APOORVA_A() {
@@ -141,11 +150,15 @@ void student_APOORVA_A() {
 }
 
 void student_ARSHIYA_KHANUM() {
-    printf("ARSHIYA KHANUM is absent\n");
+    printf("ARSHIYA KHANUM is present\n");
+    printf("USN: 4JN25CS022\n");
+    printf("Phone number: 7259682308 \n");
+    printf("Address: Channagiri\n");
 }
 
 void student_AVANI_K_S() {
-    printf("AVANI K S is absent\n");
+    printf("AVANI K S is present
+        4JN25CS023\n");
 }
 
 void student_AVANI_L() {
@@ -177,7 +190,10 @@ void student_BHAVANA_H_D() {
 }
 
 void student_BHOOMIKA_H_A() {
-    printf("BHOOMIKA H A is absent\n");
+    printf("BHOOMIKA H A is present\n");
+    printf("USN :4JN25CS031");
+    printf(" SEMESTER :3A");
+    printf(" number :7899852710");
 }
 
 void student_BHOOMIKA_M_L() {
@@ -193,7 +209,10 @@ void student_BHOOMIKA_T_MOHITHA() {
 }
 
 void student_BHUMIKA_D() {
-    printf("BHUMIKA D is absent\n");
+    printf("BHUMIKA D is present\n");
+    printf("USN : 4JN25CS035\n");
+    printf("Phone number: 6363583413\n");
+    printf("Address : Shimoga\n");
 }
 
 void student_BHUVANA_T_M() {
@@ -209,7 +228,10 @@ void student_BINDU_S() {
 }
 
 void student_BRUNDA_G() {
-    printf("BRUNDA G is absent\n");
+    printf("BRUNDA G is present\n");
+    printf("Name: Brunda G\n");
+    printf("Email: gbrunda2007@gmail.com\n");
+    printf("Address: Shivamogga, Karnataka, India\n");
 }
 
 void student_CHAITANYA_R_B() {
@@ -240,7 +262,9 @@ void student_CHANDANA_S_H() {
 }
 
 void student_CHANDRAMMA() {
-    printf("CHANDRAMMA is absent\n");
+    printf("CHANDRAMMA is present\n");
+    printf("usn:4JN25CS047\n");
+    printf("Address: Shivamogga\n");
 }
 
 void student_CHAYADEVI_G_R() {
@@ -280,7 +304,8 @@ void student_DARSHAN_L_S() {
 }
 
 void student_DASHAMI_D_M() {
-    printf("DASHAMI D M is absent\n");
+    printf("DASHAMI D M is present
+        4JN25CS057\n");
 }
 
 void student_PREETHAM_P() {
